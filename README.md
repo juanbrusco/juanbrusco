@@ -7,6 +7,3 @@
 - 👯 I like teamwork and challenges that test my knowledge.   
 
 <a href="https://www.linkedin.com/in/juan-ariel-brusco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-![juanbrusco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanbrusco&layout=compact)   
-
